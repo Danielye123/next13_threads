@@ -11,7 +11,7 @@ interface Props {
     }
     btnTitle: string;
 }
-
+// Shadcn
 const AccountProfile = ({ user, btnTitle }) => {
     return(
         <div>
